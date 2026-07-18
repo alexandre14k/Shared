@@ -37,9 +37,9 @@ Not meant for Google Play Store can be downloaded here instead.
 
 ## Test results
 Some screenshots below :<br>
-<div style="text-align: center;">
-  <img src="https://github.com/alexandre14k/Shared/tree/main/screenshots/shared-scrcpy.mp4" />
-</div>
+<video src="https://github.com/alexandre14k/Shared/tree/main/screenshots/shared-scrcpy.mp4" controls>
+  Your browser does not support the video tag.
+</video>
 
 ## License
 MIT -- feel free to checkout | borrow features | fork<br>
