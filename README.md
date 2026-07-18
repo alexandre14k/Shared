@@ -13,6 +13,10 @@ The Ui consists of a simple ConstraintLayout with components :
   - buttonExit -- simple exit the activity
  - ui is responsive and adapts to background sleep and orientation rotation modes
 
+## Unsupported
+- download files
+- upload files
+
 ## Supported devices
 Design with backward-compatibilty in mind :
 - minimum Sdk is 21 (Android 5.0 -- december 2014)
