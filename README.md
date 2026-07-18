@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/f41a7fe8-6fb7-4239-bce3-f197f30aaf53
-
 # Shared
 Web based Android App written in Java with Url to QrCode and Cookie Handlers
 
@@ -31,7 +27,9 @@ Original work environment used :
   - requires debug enabled on android
 - Real test devices | 6.5 inch phone android 12 (adb) with usb cable or wifi debug
 - Remote testing (scrcpy)
-
+- edit configuration file **Shared/local.properties**
+  - replace line 8 (sdk.dir=/opt/android-sdk) with your sdk install path
+    
 ## Test package (apk)
 Install without internet to avoid Google Play Scanner.<br>
 This program is built without background activity trackers.<br>
