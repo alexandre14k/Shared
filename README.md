@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/f41a7fe8-6fb7-4239-bce3-f197f30aaf53
+
 # Shared
 Web based Android App written in Java with Url to QrCode and Cookie Handlers
 
@@ -37,9 +41,7 @@ Not meant for Google Play Store can be downloaded here instead.
 
 ## Test results
 Some screenshots below :<br>
-<video src="https://github.com/alexandre14k/Shared/tree/main/screenshots/shared-scrcpy.mp4" controls>
-  Your browser does not support the video tag.
-</video>
+[![Shared with scrcpy on Android 12](https://github.com/alexandre14k/Shared/blob/main/screenshots/shared-view.png)](https://github.com/alexandre14k/Shared/tree/main/screenshots/shared-scrcpy.mp4)
 
 ## License
 MIT -- feel free to checkout | borrow features | fork<br>
