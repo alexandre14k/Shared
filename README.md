@@ -33,9 +33,13 @@ Install without internet to avoid Google Play Scanner.<br>
 This program is built without background activity trackers.<br>
 The shared code source is whats inside the **shared.apk**.<br>
 The app does not mess with your personal files.
+Not meant for Google Play Store can be downloaded here instead.
 
 ## Test results
-Some screenshots below.
+Some screenshots below :<br>
+<div style="text-align: center;">
+  <img src="https://github.com/alexandre14k/Shared/tree/main/screenshots/shared-scrcpy.mp4" />
+</div>
 
 ## License
 MIT -- feel free to checkout | borrow features | fork<br>
